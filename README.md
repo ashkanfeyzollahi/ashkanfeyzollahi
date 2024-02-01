@@ -6,6 +6,7 @@ class Me(music.Listener):
         super().__init__("Phonk, Mood & Classical")
 
         self.name = "Shijian"
+        self.age = 15
         self.role = "Advanced python programmer"
 
     def greet(self):
