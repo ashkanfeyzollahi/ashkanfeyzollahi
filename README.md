@@ -3,10 +3,10 @@ import music
 
 class Me(music.Listener):
     def __init__(self):
-    super().__init__("Phonk, Mood & Classical")
+        super().__init__("Phonk, Mood & Classical")
 
-    self.name = "Shijian"
-    self.role = "Advanced python programmer"
+        self.name = "Shijian"
+        self.role = "Advanced python programmer"
 
     def greet(self):
         print("Welcome to my github page.")
