@@ -21,27 +21,27 @@ My name is **Shijian** and i'm an Advanced Python Programmer with many experienc
 
 #### ⚡ Experience:
 
-- Python -> Advanced
-    * PyTorch -> Intermediate
-    * NumPy -> Intermediate
-    * Pandas -> Beginner
-    * PyGame -> Intermediate
-    * FastAPI -> Intermediate
-    * OpenCV -> Intermediate
+- Python &rightarrow; Advanced
+    * PyTorch &rightarrow; Intermediate
+    * NumPy &rightarrow; Intermediate
+    * Pandas &rightarrow; Beginner
+    * PyGame &rightarrow; Intermediate
+    * FastAPI &rightarrow; Intermediate
+    * OpenCV &rightarrow; Intermediate
 
-- Javascript -> Beginner
-    * Electron -> Beginner
-    * Website -> Beginner
+- Javascript &rightarrow; Beginner
+    * Electron &rightarrow; Beginner
+    * Website &rightarrow; Beginner
 
-- C# -> Intermediate
-    * .NET Framework -> Intermediate
-    * .NET -> Intermediate
-    * WinUI3 -> Beginner
+- C# &rightarrow; Intermediate
+    * .NET Framework &rightarrow; Intermediate
+    * .NET &rightarrow; Intermediate
+    * WinUI3 &rightarrow; Beginner
 
 - C++ -> Beginner
-    * OpenCV -> Beginner
-    * OpenGL -> Beginner
-    * QT -> Beginner
+    * OpenCV &rightarrow; Beginner
+    * OpenGL &rightarrow; Beginner
+    * QT &rightarrow; Beginner
 
 - C -> Beginner
 
