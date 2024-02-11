@@ -17,33 +17,11 @@ Me().greet()
 
 ### Hi there 👋
 
-My name is **Shijian** and i'm an Advanced Python Programmer with many experience from Iran, i don't have any work experience because i'm 15 years old. Here's some extra information about me:
+My name is **Shijian** and i'm an Advanced Python Programmer with many experience from Iran, i don't have any work experience because i'm 15 years old.
 
 #### ⚡ Experience:
 
-- Python &rightarrow; Advanced
-    * PyTorch &rightarrow; Intermediate
-    * NumPy &rightarrow; Intermediate
-    * Pandas &rightarrow; Beginner
-    * PyGame &rightarrow; Intermediate
-    * FastAPI &rightarrow; Intermediate
-    * OpenCV &rightarrow; Intermediate
-
-- Javascript &rightarrow; Beginner
-    * Electron &rightarrow; Beginner
-    * Website &rightarrow; Beginner
-
-- C# &rightarrow; Intermediate
-    * .NET Framework &rightarrow; Intermediate
-    * .NET &rightarrow; Intermediate
-    * WinUI3 &rightarrow; Beginner
-
-- C++ -> Beginner
-    * OpenCV &rightarrow; Beginner
-    * OpenGL &rightarrow; Beginner
-    * QT &rightarrow; Beginner
-
-- C -> Beginner
+I have a lot of experience in **Python**, also i have exprience in **Javascript**, **C/C++** and **C#**.
 
 #### ✨ Interests:
 
