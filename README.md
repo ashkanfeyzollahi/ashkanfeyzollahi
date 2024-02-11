@@ -1,18 +1,14 @@
-```py
-import music
+```c
+#include <stdio.c>
 
-class Me(music.Listener):
-    def __init__(self):
-        super().__init__("Phonk, Mood & Classical")
+char* greet() {
+    printf("Hello, Welcome!");
+}
 
-        self.name = "Shijian"
-        self.age = 15
-        self.role = "Advanced python programmer"
-
-    def greet(self):
-        print("Welcome to my github page.")
-
-Me().greet()
+int main() {
+    greet();
+    return 0;
+}
 ```
 
 ### Hi there 👋
