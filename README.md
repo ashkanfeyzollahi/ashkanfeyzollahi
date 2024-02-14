@@ -1,7 +1,7 @@
 ```c
 #include <stdio.c>
 
-char* greet() {
+void greet() {
     printf("Hello, Welcome!");
 }
 
