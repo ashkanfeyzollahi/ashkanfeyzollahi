@@ -13,7 +13,7 @@ int main() {
 
 ### Hi there 👋
 
-My name is **Shijian** and i'm an Advanced Python Programmer with many experience from Iran, i don't have any work experience because i'm 15 years old.
+My name is **Shijian** and i'm an Advanced Python Programmer with many experiences from Iran, i don't have any work experiences because i'm 15 years old.
 
 #### ⚡ Experience:
 
