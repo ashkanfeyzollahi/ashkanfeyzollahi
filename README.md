@@ -1,14 +1,7 @@
 ```c
-#include <stdio.c>
-
-void greet() {
-    printf("Hello, Welcome!");
-}
-
-int main() {
-    greet();
-    return 0;
-}
+#define NAME "Shijian"
+#define AGE 15
+#define PRONOUNS "He/Him"
 ```
 
 ### Hi there 👋
