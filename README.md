@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="340px" src="https://avatars.githubusercontent.com/u/136630721?v=4">
+<img align="left" height="400vh" width="400vw" src="https://avatars.githubusercontent.com/u/136630721?v=4">
 
 ### My identity
 
