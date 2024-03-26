@@ -1,17 +1,39 @@
-```c
-#define NAME "Shijian"
-#define AGE 15
-#define PRONOUNS "He/Him"
-```
+<h2 align="left">Hey 👋 What's up!</h2>
 
-### Hi there 👋
+###
 
-My name is **Shijian** and i'm an Advanced Python Programmer with many experiences from Iran, i don't have any work experiences because i'm 15 years old.
+<img align="left" height="340px" src="https://avatars.githubusercontent.com/u/136630721?v=4">
 
-#### ⚡ Experience:
+### My identity
 
-I have a lot of experience in **Python**, also i have exprience in **Javascript**, **C/C++** and **C#**.
+<p align="left">My name is Shijian and i'm a data science student by myself in home from iran, tabriz.</p>
 
-#### ✨ Interests:
+### About me
 
-I really enjoy working on **Python** Programs, i always listen to **music** while using my computer, i really love to play **Chess**
+<p align="left" width="100%">✨ Writing codes since 2021.<br>💻 My main programming language that i use everyday is Python.<br>👾 Currently learning Javascript, Ruby, C/C++.<br>🎂 C# and Python are languages that i use them most time.<br><br>And here are technologies those i use:</p>
+
+### 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+</div>
+
+###
