@@ -4,9 +4,15 @@
 
 <img align="left" height="400vh" width="400vw" src="https://avatars.githubusercontent.com/u/136630721?v=4">
 
+###
+
+###
+
+###
+
 ### My identity
 
-<p align="left"><br>My name is Shijian and i'm a data science student by myself in home from iran, tabriz.</p>
+<p align="left">My name is Shijian and i'm a data science student by myself in home from iran, tabriz.</p>
 
 ### About me
 
