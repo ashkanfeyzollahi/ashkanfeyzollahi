@@ -1,8 +1,6 @@
 <h2 align="left">Hey 👋 What's up!</h2>
 
-<img align="left" height="45%" width="45%" src="https://avatars.githubusercontent.com/u/136630721?v=4">
-
-<br>
+<img align="left" height="40%" width="40%" src="https://avatars.githubusercontent.com/u/136630721?v=4">
 
 ### My identity
 
