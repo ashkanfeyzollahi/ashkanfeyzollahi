@@ -1,14 +1,6 @@
 <h2 align="left">Hey 👋 What's up!</h2>
 
-###
-
-<img align="left" height="400vh" width="400vw" src="https://avatars.githubusercontent.com/u/136630721?v=4">
-
-###
-
-###
-
-###
+<img align="left" height="35%" width="35%" src="https://avatars.githubusercontent.com/u/136630721?v=4">
 
 ### My identity
 
@@ -41,5 +33,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
-
-###
