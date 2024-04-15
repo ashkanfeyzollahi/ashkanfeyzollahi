@@ -1,35 +1,24 @@
-<h2 align="left">Hey 👋 What's up!</h2>
+<h2>
+    <img height="21" src="./assets/waving_hand_emoji.webp">
+    Hi there!
+</h2>
 
-<img align="left" height="40%" width="40%" src="https://avatars.githubusercontent.com/u/136630721?v=4">
+I'm a 16-year-old programmer with proficiency in Python and JavaScript. In addition to coding, I enjoy playing chess and exploring the exciting world of machine learning and computer science from the comfort of my own home.
 
-### My identity
+<h2>
+    <img height="21" src="./assets/cowboy_hat_face_emoji.webp">
+    My journey
+</h2>
 
-<p align="left">My name is Shijian and i'm a data science student by myself in home from iran, tabriz.</p>
+My journey in programming began four years ago, and since then, I have expanded my skillset to encompass seven different programming languages. With each language, I strive to not only master its syntax but also understand its underlying philosophy and principles.
 
-### About me
+Programming has become more than just a hobby for me; it's a passion that drives me to constantly learn and grow. Whether I'm working on personal projects or contributing to open source initiatives, I take pride in writing clean, efficient, and elegant code.
 
-<p align="left" width="100%">✨ Writing codes since 2021.<br>💻 My main programming language that i use everyday is Python.<br>👾 Currently learning Javascript, Ruby, C/C++.<br>🎂 C# and Python are languages that i use them most time.<br><br>And here are technologies those i use:</p>
+<h2>
+    <img height="21" src="./assets/hugging_face_emoji.webp">
+    Thank you!
+</h2>
 
-### 
+Thank you for taking the time to learn a bit about me. If you have any questions or would like to connect, feel free to reach out!
 
-<div align="center" overflow="hidden">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-</div>
+**look at my [website](https://shijian-wow.github.io/) for more informations**.
