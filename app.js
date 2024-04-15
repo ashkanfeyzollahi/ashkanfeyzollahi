@@ -32,8 +32,8 @@ function applyFlexStylesToBoxSections(addFlexStyles) {
     sectionsWithBoxes[i].className = flexRowClassName;
     for (j = 0; j < sectionsWithBoxes[i].children.length; j++) {
       if (sectionsWithBoxes[i].children.length != 1) {
-        sectionsWithBoxes[i].children[j].className = (addFlexStyles ? "w-1/" + sectionsWithBoxes[i].children.length + " " : "") + "ease duration-250 transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 border-1 border-black/10 dark:border-white/10 shadow-md m-3 hover:-translate-y-1 cursor-pointer transform";
-      } else { sectionsWithBoxes[i].children[j].className = (addFlexStyles ? "w-full " : "") + "ease duration-250 transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 border-1 border-black/10 dark:border-white/10 shadow-md m-3 hover:-translate-y-1 cursor-pointer transform"; }
+        sectionsWithBoxes[i].children[j].className = (addFlexStyles ? "w-1/" + sectionsWithBoxes[i].children.length + " " : "") + "ease duration-250 transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 border-1 border-black/10 dark:border-white/10 shadow-md m-3 hover:-translate-y-1 transform";
+      } else { sectionsWithBoxes[i].children[j].className = (addFlexStyles ? "w-full " : "") + "ease duration-250 transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 border-1 border-black/10 dark:border-white/10 shadow-md m-3 hover:-translate-y-1 transform"; }
     }
   }
 }
