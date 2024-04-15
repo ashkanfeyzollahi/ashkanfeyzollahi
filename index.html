@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Shijian's webpage - powered by Github pages</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="./tailwind.config.js"></script>
+
+    <style>
+        ::-webkit-scrollbar {
+            width: 0px;
+        }
+    </style>
+</head>
+<body class="dark:bg-neutral-900">
+    <div id="navbar" align="center" class="h-12 bg-white dark:bg-neutral-800 dark:text-white/80 p-2 shadow-xl">
+        <div class="mx-auto w-1/2 flex flex-row w-min">
+            <button onclick="scrollToElement(aboutMeSection);" class="ml-3 inline-flex items-center justify-center p-2 rounded-md transform hover:scale-110 transform duraction-25 ease transition cursor-pointer">
+                <svg class="h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 20 20" stroke="currentColor" aria-hidden="true"><img src="./assets/about_me_icon.svg"></svg>
+            </button>
+
+            <button onclick="scrollToElement(skillsAndExperiencesSection);" class="ml-3 inline-flex items-center justify-center p-2 rounded-md transform hover:scale-110 transform duraction-25 ease transition cursor-pointer">
+                <svg class="h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 20 20" stroke="currentColor" aria-hidden="true"><img src="./assets/working_with_a_laptop_icon.svg"></svg>
+            </button>
+
+            <button onclick="scrollToElement(pinnedRepositoriesSection);" class="ml-3 inline-flex items-center justify-center p-2 rounded-md transform hover:scale-110 transform duraction-25 ease transition cursor-pointer">
+                <svg class="h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 20 20" stroke="currentColor" aria-hidden="true"><img src="./assets/repository_icon.svg"></svg>
+            </button>
+
+            <div class="ml-3 text-lg font-medium text-black/30 dark:text-white/20">|</div>
+
+            <button onclick="window.open('https://github.com/shijian-wow/shijian-wow', 'blank');" class="ml-3 inline-flex items-center justify-center p-2 rounded-md transform hover:scale-110 transform duraction-25 ease transition cursor-pointer">
+                <svg class="h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 20 20" stroke="currentColor" aria-hidden="true"><img src="./assets/github_icon.svg"></svg>
+            </button>
+
+            <button onclick="isDarkThemeActive = switchDarkTheme();" class="ml-3 inline-flex items-center justify-center p-2 rounded-md transform hover:scale-110 transform duraction-25 ease transition cursor-pointer">
+                <svg class="h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 20 20" stroke="currentColor" aria-hidden="true"><img src="./assets/night_icon.svg"></svg>
+            </button>
+        </div>
+    </div>
+    
+    <h1 id="about-me-section" class="m-8 font-medium text-3xl dark:text-neutral-100">About me</h1>
+
+    <div class="m-10 dark:text-neutral-200 text-lg">
+        <div class="m-5 font-medium text-2xl font-size-large dark:text-white">
+            <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 dark:bg-white/5 rounded-md">
+                <img class="h-5 w-5" src="./assets/waving_hand_emoji.webp">
+            </span>
+            Hi there!
+        </div>
+        <p class="m-8">
+            I'm a 16-year-old programmer with proficiency in Python and JavaScript.
+            In addition to coding, I enjoy playing chess and exploring the exciting world of machine
+            learning and computer science from the comfort of my own home.
+        </p>
+
+        <div class="m-5 font-medium text-2xl font-size-large dark:text-white">
+            <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 dark:bg-white/5 rounded-md">
+                <img class="h-5 w-5" src="./assets/cowboy_hat_face_emoji.webp">
+            </span>
+            My journey
+        </div>
+        <p class="m-8">
+            My journey in programming began four years ago, and since then, I have expanded my skillset
+            to encompass seven different programming languages. With each language, I strive to not only
+            master its syntax but also understand its underlying philosophy and principles.<br><br>
+        
+            Programming has become more than just a hobby for me; it's a passion that drives me to constantly
+            learn and grow. Whether I'm working on personal projects or contributing to open source
+            initiatives, I take pride in writing clean, efficient, and elegant code.
+        </p>
+
+        <div class="m-5 font-medium text-2xl font-size-large dark:text-white">
+            <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 dark:bg-white/5 rounded-md">
+                <img class="h-5 w-5" src="./assets/hugging_face_emoji.webp">
+            </span>
+            Thank you!
+        </div>
+        <p class="m-8">
+            Thank you for taking the time to learn a bit about me. If you have any questions or would like to connect, feel free to reach out!
+        </p>
+    </div>
+
+    <h1 id="skills-and-experiences-section" class="m-8 font-medium text-3xl dark:text-neutral-100">Skills & Experiences</h1>
+
+    <div class="m-12 mt-2">
+        <div class="section-with-boxes">
+            <div class="ease transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl m-3 hover:-translate-y-1 duraction-25">
+                <div class="font-medium text-2xl font-size-large dark:text-white">
+                    <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 rounded-md">
+                        <svg class="h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                        viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><img src="./assets/web_icon.svg"></svg>
+                    </span>
+                    Full-Stack Development
+                </div>
+                <p class="text-slate-500 dark:text-neutral-400 mt-2 text-base">
+                    Experience in developing full-stack applications using FastAPI and Next.js.
+                </p>
+            </div>
+
+            <div class="ease transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl m-3 hover:-translate-y-1 duraction-25">
+                <div class="font-medium text-2xl font-size-large dark:text-white">
+                    <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 rounded-md">
+                        <svg class="h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                        viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><img src="./assets/desktop_icon.svg"></svg>
+                    </span>
+                    Cross-Platform Desktop App Development
+                </div>
+                <p class="text-slate-500 dark:text-neutral-400 mt-2 text-base">
+                    Skill in creating cross-platform desktop applications using Electron.js and Tailwind CSS.
+                </p>
+            </div>
+
+            <div class="ease transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl m-3 hover:-translate-y-1 duraction-25">
+                <div class="font-medium text-2xl font-size-large dark:text-white">
+                    <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 rounded-md">
+                        <svg class="h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                        viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><img src="./assets/windows_icon.svg"></svg>
+                    </span>
+                    Windows Desktop App Development:
+                </div>
+                <p class="text-slate-500 dark:text-neutral-400 mt-2 text-base">
+                    Expertise in building Windows desktop applications using C# and the .NET Framework.
+                </p>
+            </div>
+        </div>
+
+        <div class="section-with-boxes">
+            <div class="ease transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl m-3 hover:-translate-y-1 duraction-25">
+                <div class="font-medium text-2xl font-size-large dark:text-white">
+                    <span class="mr-2 inline-flex items-center justify-center p-2 bg-black/10 rounded-md">
+                        <svg class="h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                        viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><img src="./assets/game_controller_icon.svg"></svg>
+                    </span>
+                    Game Development
+                </div>
+                <p class="text-slate-500 dark:text-neutral-400 mt-2 text-base">
+                    Experience in developing games using PyGame and Moderngl.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <h1 id="pinned-repositories-section" class="m-8 font-medium text-3xl dark:text-neutral-100">Pinned repositories</h1>
+    
+    <div class="m-12 mt-2">
+        <div class="section-with-boxes">
+            <div onclick="window.open('https://github.com/shijian-wow/python-chess-gui', 'blank');" class="ease transition bg-black dark:bg-neutral-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl m-3 hover:-translate-y-1 duraction-25">
+                <div class="font-medium text-2xl font-size-large dark:text-white">
+                    Chess against stockfish
+                </div>
+                <p class="text-slate-500 dark:text-neutral-400 mt-2 text-base">
+                    Graphical user interface to play against Stockfish which written using PyGame.
+                </p>
+
+                <div class="flex flex-row mt-5">
+                    <div class="bg-sky-600 rounded-lg w-4 h-4 translate-y-[5px] mr-2"></div>
+                    <p class="text-black/70 dark:text-white/70">Python</p>
+                </div>
+            </div>
+
+            <div onclick="window.open('https://github.com/NaviTheCodeboi/vivid', 'blank');" class="ease transition bg-white dark:bg-neutral-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl m-3 hover:-translate-y-1 duraction-25">
+                <div class="font-medium text-2xl font-size-large dark:text-white">
+                    Vivid
+                </div>
+                <p class="text-slate-500 dark:text-neutral-400 mt-2 text-base">
+                    A toy web frameword made by NaviTheCodeboi for learning purpose.
+                </p>
+
+                <div class="flex flex-row mt-5">
+                    <div class="bg-sky-600 rounded-lg w-4 h-4 translate-y-[5px] mr-2"></div>
+                    <p class="text-black/70 dark:text-white/70">Python</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div align="center" class="p-10 text-black/60 dark:text-white/60">
+        Copyright 2024 shijian-wow
+    </div>
+</body>
+<script src="./app.js"></script>
+</html>
