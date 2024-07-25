@@ -20,5 +20,3 @@ Programming has become more than just a hobby for me; it's a passion that drives
 </h2>
 
 Thank you for taking the time to learn a bit about me. If you have any questions or would like to connect, feel free to reach out!
-
-look at my *[website](https://AshkanFeyzollahi.github.io/)* for more informations.
