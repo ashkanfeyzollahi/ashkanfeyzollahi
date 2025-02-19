@@ -71,3 +71,5 @@ efficient, and elegant code.
 Thank you for taking the time to learn a bit
 about me. If you have any questions or would
 like to connect, feel free to reach out!
+
+Also if you want to have look at my resume, checkout [this](https://ashkanfeyzollahi.github.io/resume)
