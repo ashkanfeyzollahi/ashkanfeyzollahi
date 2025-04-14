@@ -2,6 +2,11 @@
 
 I'm 16-years-old muslim software developer with profiency in Python, and 4 years of study and experience. I'm interested in software development, cybersecurity/networking, video games and mathematics. I ♥ to contribute to open-source projects, and i mostly choose & use open-source and free software!
 
+
+### Donation
+
+If you feel generous today, you may send bitcoin (BTC) ~ Sending anything else may end up in permanent loss:
+
 <br>
 <p>
   <img src="https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/btc.svg" align="left" width="24px" height="24px" />
