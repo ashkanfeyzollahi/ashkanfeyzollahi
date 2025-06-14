@@ -6,10 +6,10 @@ Eventually will add many other projects and contribute to some!!
 
 Currently focused on studying and experimenting more as there are lots of things to know about in wonderful world of software development!!!
 
-Contributions:
+### Contributions
 
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker): Pure Python Spell Checking based on Peter Norvig's blog post on setting up a simple spell checking algorithm.
 
-Maintaining:
+### Maintaining
 
 Nothing...
