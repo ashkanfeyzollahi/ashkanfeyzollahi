@@ -12,4 +12,4 @@ Currently focused on studying and experimenting more as there are lots of things
 
 ### Maintaining
 
-Nothing...
+`Nothing...`
