@@ -8,8 +8,4 @@
 
 ### Maintaining
 
-- *Nothing...*
-
-### Others
-
 - [**ashkanfeyzollahi/astronaut-game**](https://github.com/ashkanfeyzollahi/astronaut-game): Simple astronaut game made with C# .NET framework 4.5 for education & fun purpose.
