@@ -12,6 +12,5 @@
 
 ### Adviced Books
 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [NCURSES Programming HOWTO](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 - [Step-By-Step Into Argp](http://nongnu.askapache.com/argpbook/step-by-step-into-argp.pdf)
