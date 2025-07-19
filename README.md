@@ -10,7 +10,3 @@
 
 - [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
 
-### Adviced Books
-
-- [NCURSES Programming HOWTO](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
-- [Step-By-Step Into Argp](http://nongnu.askapache.com/argpbook/step-by-step-into-argp.pdf)
