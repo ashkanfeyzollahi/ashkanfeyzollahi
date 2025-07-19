@@ -8,7 +8,7 @@
 
 ### Maintaining
 
-- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): Fly through space, while dodging and destroying meteors and trying to gain score!
+- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
 
 ### Adviced Books
 
