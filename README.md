@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,c,cmake,cpp,cs,css,debian,django,flask,git,github,html,js,linux,lua,neovim,py,sass,sqlite,tailwind,tauri,vite,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,c,cmake,cpp,cs,css,debian,django,flask,git,github,html,js,linux,lua,neovim,py,sass,sqlite,tailwind,tauri,vite,vscode,windows&perline=8" />
   </a>
 </p>
