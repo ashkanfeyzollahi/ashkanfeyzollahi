@@ -10,3 +10,10 @@
 
 - [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
 
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,bash,c,cmake,cpp,cs,css,debian,django,flask,git,github,html,js,linux,lua,neovim,py,sass,sqlite,tailwind,tauri,vite,vscode,windows" />
+  </a>
+</p>
