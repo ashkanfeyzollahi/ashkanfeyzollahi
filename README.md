@@ -1,19 +1,25 @@
 # About me
 
-16 years old software developer with 4 years of study and experiment with Python, Javascript and C/C++, and interested in open-source and free software since born! Planning to eventually contribute to open-source softwares and may even publish my own packages!! But currently focused on studying and experimenting more as there are lots of things to know about in wonderful world of software development!!!
+Self-taught 16-years-old software developer with proficiency in C, Javascript and Python, and interested in open-source software since born.
 
-### Contributions
+---
 
-- [**barrust/pyspellchecker**](https://github.com/barrust/pyspellchecker): Pure Python Spell Checking based on Peter Norvig's blog post on setting up a simple spell checking algorithm. ([Add `Persian` dictionary](https://github.com/barrust/pyspellchecker/pull/181))
-
-### Maintaining
-
-- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
-
-### TechStack
+## TechStack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,bash,c,cmake,cpp,cs,css,debian,django,flask,git,github,html,js,linux,lua,neovim,py,sass,sqlite,tailwind,tauri,vite,vscode,windows&perline=8" />
   </a>
 </p>
+
+---
+
+## Contributions
+
+- [**barrust/pyspellchecker**](https://github.com/barrust/pyspellchecker): Pure Python Spell Checking based on Peter Norvig's blog post on setting up a simple spell checking algorithm. ([Add `Persian` dictionary](https://github.com/barrust/pyspellchecker/pull/181))
+
+---
+
+## Maintaining
+
+- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
