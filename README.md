@@ -8,7 +8,7 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,c,cmake,cpp,cs,css,debian,django,flask,git,github,html,js,linux,lua,neovim,py,sass,sqlite,tailwind,tauri,vite,vscode,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cmake,cpp,cs,css,django,flask,git,html,js,lua,py,rust,sass,sqlite,tailwind,tauri,vite&perline=8" />
   </a>
 </p>
 
