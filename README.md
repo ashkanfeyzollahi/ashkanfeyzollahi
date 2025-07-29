@@ -26,6 +26,7 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -39,5 +40,5 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 ## Maintaining
 
 - [**ashkanfeyzollahi/getignore3**](https://github.com/ashkanfeyzollahi/getignore3): 😎 Get gitignore files without bothering yourself
-- [**ashkanfeyzollahi/getlicense**](https://github.com/ashkanfeyzollahi/getlicense): 📖 Easily choose and get a license for your software
+- [**ashkanfeyzollahi/getlicense](https://github.com/ashkanfeyzollahi/getlicense): 📖 Easily choose and get a license for your software
 - [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
