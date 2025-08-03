@@ -41,6 +41,6 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 
 ## Maintaining
 
-- [**ashkanfeyzollahi/getignore3**](https://github.com/ashkanfeyzollahi/getignore3): 😎 Get gitignore files without bothering yourself
-- [**ashkanfeyzollahi/getlicense**](https://github.com/ashkanfeyzollahi/getlicense): 📖 Easily choose and get a license for your software
-- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 Fly through space, while dodging and destroying meteors and trying to gain score!
+- [**ashkanfeyzollahi/getignore3**](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
+- [**ashkanfeyzollahi/getlicense**](https://github.com/ashkanfeyzollahi/getlicense): 📖 A tool to quickly generate software license files with customizable project details
+- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
