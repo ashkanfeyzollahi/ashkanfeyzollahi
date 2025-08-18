@@ -47,12 +47,16 @@ Self-taught 17-years-old software developer with proficiency in C, Javascript an
 
 ## Contributions
 
-- [**barrust/pyspellchecker**](https://github.com/barrust/pyspellchecker): Pure Python Spell Checking based on Peter Norvig's blog post on setting up a simple spell checking algorithm. ([Add `Persian` dictionary](https://github.com/barrust/pyspellchecker/pull/181))
+- [![pyspellchecker](https://img.shields.io/badge/PySpellChecker-black?style=for-the-badge&logo=pypi&logoColor=white)
+](https://github.com/barrust/pyspellchecker): Pure Python Spell Checking based on Peter Norvig's blog post on setting up a simple spell checking algorithm. ([Add `Persian` dictionary](https://github.com/barrust/pyspellchecker/pull/181))
 
 ---
 
 ## Maintaining
 
-- [**ashkanfeyzollahi/getignore3**](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
-- [**ashkanfeyzollahi/getlicense**](https://github.com/ashkanfeyzollahi/getlicense): 📖 A tool to quickly generate software license files with customizable project details
-- [**ashkanfeyzollahi/meteormayhem**](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
+- [![GetIgnore3](https://img.shields.io/badge/GetIgnore3-black?style=for-the-badge&logo=pypi&logoColor=white)
+](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
+- [![GetLicense](https://img.shields.io/badge/GetLicense-black?style=for-the-badge&logo=pypi&logoColor=white)
+](https://github.com/ashkanfeyzollahi/getlicense): 📖 A tool to quickly generate software license files with customizable project details
+- [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
+](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
