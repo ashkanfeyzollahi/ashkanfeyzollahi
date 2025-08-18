@@ -1,6 +1,6 @@
 # About me
 
-Self-taught 16-years-old software developer with proficiency in C, Javascript and Python, and interested in open-source software since born.
+Self-taught 17-years-old software developer with proficiency in C, Javascript and Python, and interested in open-source software since born.
 
 ---
 
@@ -31,10 +31,17 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootsrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CMake](https://img.shields.io/badge/Cmake-black?style=for-the-badge&logo=cmake&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Npm](https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=npm&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-black?style=for-the-badge&logo=pydantic&logoColor=white)
 ![PyNaCl](https://img.shields.io/badge/PyNaCl-black?style=for-the-badge&logo=pypi&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-black?style=for-the-badge&logo=ruff&logoColor=white)
+![UV](https://img.shields.io/badge/UV-black?style=for-the-badge&logo=uv&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-black?style=for-the-badge&logo=pypi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
