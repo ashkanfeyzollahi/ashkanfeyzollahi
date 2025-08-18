@@ -4,7 +4,7 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 
 ---
 
-## Talents
+## TechStack
 
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp&logoColor=white)
@@ -30,6 +30,11 @@ Self-taught 16-years-old software developer with proficiency in C, Javascript an
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootsrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-black?style=for-the-badge&logo=pydantic&logoColor=white)
+![PyNaCl](https://img.shields.io/badge/PyNaCl-black?style=for-the-badge&logo=pypi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-black?style=for-the-badge&logo=pypi&logoColor=white)
 
 ---
 
