@@ -8,7 +8,7 @@ Self-taught 17-years-old software developer with proficiency in C, Javascript an
 
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white)
