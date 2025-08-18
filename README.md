@@ -32,6 +32,7 @@ Self-taught 17-years-old software developer with proficiency in C, Javascript an
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootsrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CMake](https://img.shields.io/badge/Cmake-black?style=for-the-badge&logo=cmake&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Npm](https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=npm&logoColor=white)
