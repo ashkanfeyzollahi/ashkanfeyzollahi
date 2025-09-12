@@ -64,9 +64,13 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 
 ## Projects
 
+- [![BellmanGridSolver](https://img.shields.io/badge/Bellman%20Grid%20Solver-black?style=for-the-badge&logo=poetry&logoColor=white)
+](https://github.com/ashkanfeyzollahi/bellman-grid-solver): 🤖 Solve deterministic grid worlds/mazes using bellman equation
 - [![GetIgnore3](https://img.shields.io/badge/GetIgnore3-black?style=for-the-badge&logo=pypi&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
 - [![GetLicense](https://img.shields.io/badge/GetLicense-black?style=for-the-badge&logo=pypi&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/getlicense): 📖 A tool to quickly generate software license files with customizable project details
+- [![IrisClassification](https://img.shields.io/badge/Iris%20Classification-black?style=for-the-badge&logo=poetry&logoColor=white)
+](https://github.com/ashkanfeyzollahi/iris-classification): 🤖 Iris classification with Scikit-learn
 - [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
