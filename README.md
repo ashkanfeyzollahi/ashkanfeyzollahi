@@ -68,7 +68,7 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 
 - [![BellmanGridSolver](https://img.shields.io/badge/Bellman%20Grid%20Solver-black?style=for-the-badge&logo=poetry&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/bellman-grid-solver): 🤖 Solve deterministic grid worlds/mazes using bellman equation
-- [![BlessedViewer](https://img.shields.io/badge/Blessed%20Viewer-black?style=for-the-badge&logo=poetry&logoColor=white)](https://github.com/ashkanfeyzollahi/blessedviewer): 🖼️ A blessed terminal-based image viewer
+- [![BlessedViewer](https://img.shields.io/badge/Blessed%20Viewer-black?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ashkanfeyzollahi/blessedviewer): 🖼️ A blessed terminal-based image viewer
 - [![GetIgnore3](https://img.shields.io/badge/GetIgnore3-black?style=for-the-badge&logo=pypi&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
 - [![GetLicense](https://img.shields.io/badge/GetLicense-black?style=for-the-badge&logo=pypi&logoColor=white)
