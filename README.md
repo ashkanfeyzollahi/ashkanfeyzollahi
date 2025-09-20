@@ -45,6 +45,7 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-black?style=for-the-badge&logo=ruff&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -67,6 +68,7 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 
 - [![BellmanGridSolver](https://img.shields.io/badge/Bellman%20Grid%20Solver-black?style=for-the-badge&logo=poetry&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/bellman-grid-solver): 🤖 Solve deterministic grid worlds/mazes using bellman equation
+- [![BlessedViewer](https://img.shields.io/badge/Blessed%20Viewer-black?style=for-the-badge&logo=poetry&logoColor=white)](https://github.com/ashkanfeyzollahi/blessedviewer): 🖼️ A blessed terminal-based image viewer
 - [![GetIgnore3](https://img.shields.io/badge/GetIgnore3-black?style=for-the-badge&logo=pypi&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
 - [![GetLicense](https://img.shields.io/badge/GetLicense-black?style=for-the-badge&logo=pypi&logoColor=white)
@@ -75,3 +77,4 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 ](https://github.com/ashkanfeyzollahi/iris-classification): 🤖 Iris classification with Scikit-learn
 - [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
+- [![Rustivig](https://img.shields.io/badge/Rustivig-black?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ashkanfeyzollahi/rustivig): 🧙 A Rust implementation of Peter Norvig's spell corrector algorithm for use in Python
