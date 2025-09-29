@@ -80,4 +80,3 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 ](https://github.com/ashkanfeyzollahi/iris-classification): 🤖 Iris classification with Scikit-learn
 - [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
-- [![Rustivig](https://img.shields.io/badge/Rustivig-black?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/ashkanfeyzollahi/rustivig): 🧙 A Rust implementation of Peter Norvig's spell corrector algorithm for use in Python
