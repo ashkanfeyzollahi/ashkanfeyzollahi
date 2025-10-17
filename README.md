@@ -80,3 +80,5 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 ](https://github.com/ashkanfeyzollahi/iris-classification): 🤖 Iris classification with Scikit-learn
 - [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
+- [![Roadway](https://img.shields.io/badge/Roadway-black?style=for-the-badge&logo=lua&logoColor=white)
+](https://github.com/ashkanfeyzollahi/roadway): 🚗 A fast-paced 2-lane dodging game made with LÖVE2D. Avoid oncoming cars, survive the road, and watch out for explosive crashes! 
