@@ -51,6 +51,24 @@ Looking ahead, I am eager to further develop my expertise through formal educati
 
 ---
 
+## Experience
+
+### Co-founder &mdash; chef-box.ir 
+**October 2025 - Present**
+
+Implemented automation solutions to reduce manual work.
+
+![chef-box.ir](assets/chef-box.png)
+
+### Co-founder &mdash; mahanbartabriz.ir
+**December 2025 - Present**
+
+Solely responsible for the website’s full development lifecycle.
+
+![mahanbartabriz.ir](assets/mahanbartabriz.png)
+
+---
+
 ## Education
 
 * Shahid Dr. Chamran Honarestan (Techincal School) — 2025 (Expected Graduation)
