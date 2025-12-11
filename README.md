@@ -94,3 +94,5 @@ Solely responsible for the website’s full development lifecycle.
 ](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
 - [![Roadway](https://img.shields.io/badge/Roadway-black?style=for-the-badge&logo=lua&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/roadway): 🚗 A fast-paced 2-lane dodging game made with LÖVE2D. Avoid oncoming cars, survive the road, and watch out for explosive crashes! 
+- [![ToggleLED](https://img.shields.io/badge/Toggle%20LED-black?style=for-the-badge&logo=cplusplus&logoColor=white)
+](https://github.com/ashkanfeyzollahi/toggle-led): 💡 A simple ESP8266 access-point–hosted web server that lets you toggle the onboard LED through a clean HTML interface. 
