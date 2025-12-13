@@ -92,7 +92,9 @@ Solely responsible for the website’s full development lifecycle.
 ](https://github.com/ashkanfeyzollahi/iris-classification): 🤖 Iris classification with Scikit-learn
 - [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
+- [![One0](https://img.shields.io/badge/One0-black?style=for-the-badge&logo=c&logoColor=white)
+](https://github.com/ashkanfeyzollahi/one0): 🔢 A minimalist esoteric programming language where every operation is represented by binary strings.
 - [![Roadway](https://img.shields.io/badge/Roadway-black?style=for-the-badge&logo=lua&logoColor=white)
-](https://github.com/ashkanfeyzollahi/roadway): 🚗 A fast-paced 2-lane dodging game made with LÖVE2D. Avoid oncoming cars, survive the road, and watch out for explosive crashes! 
+](https://github.com/ashkanfeyzollahi/roadway): 🚗 A fast-paced 2-lane dodging game made with LÖVE2D. Avoid oncoming cars, survive the road, and watch out for explosive crashes!
 - [![ToggleLED](https://img.shields.io/badge/Toggle%20LED-black?style=for-the-badge&logo=cplusplus&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/toggle-led): 💡 A simple ESP8266 access-point–hosted web server that lets you toggle the onboard LED through a clean HTML interface. 
