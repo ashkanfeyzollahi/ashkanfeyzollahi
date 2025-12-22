@@ -81,6 +81,7 @@ Solely responsible for the website’s full development lifecycle.
 - [![BellmanGridSolver](https://img.shields.io/badge/Bellman%20Grid%20Solver-black?style=for-the-badge&logo=poetry&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/bellman-grid-solver): 🤖 Solve deterministic grid worlds/mazes using bellman equation
 - [![BlessedViewer](https://img.shields.io/badge/Blessed%20Viewer-black?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ashkanfeyzollahi/blessedviewer): 🖼️ A blessed terminal-based image viewer
+- [![cameracli](https://img.shields.io/badge/cameracli-black?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/ashkanfeyzollahi/cameracli): 📷 A terminal-based real-time camera viewer that renders live video as ASCII art.
 - [![ccowsay](https://img.shields.io/badge/ccowsay-black?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ashkanfeyzollahi/ccowsay): 🐮 A tool for generating customizable ASCII art messages with speech bubbles and cow-style templates, supporting styled text using AnsiMarkup.
 - [![Fortexs](https://img.shields.io/badge/Fortexs-black?style=for-the-badge&logo=poetry&logoColor=white)
 ](https://github.com/ashkanfeyzollahi/fortexs): 🔍 A web scraper for fetching products from `www.fortex.ir`
