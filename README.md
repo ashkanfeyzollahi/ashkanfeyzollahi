@@ -24,6 +24,7 @@ I am a highly motivated and self-driven 17-year-old software developer, entirely
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
 ![Npm](https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=npm&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white)
 ![Parsel](https://img.shields.io/badge/Poetry-black?style=for-the-badge&logo=pypi&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-black?style=for-the-badge&logo=poetry&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=white)
