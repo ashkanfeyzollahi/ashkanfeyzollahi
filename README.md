@@ -7,7 +7,7 @@ I am a highly motivated and self-driven 17-year-old software developer, entirely
 ![Bash Script](https://img.shields.io/badge/bash_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootsrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/Cmake-black?style=for-the-badge&logo=cmake&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
