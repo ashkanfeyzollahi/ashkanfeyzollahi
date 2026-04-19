@@ -2,13 +2,12 @@
 
 I am a highly motivated and self-driven 17-year-old software developer, entirely self-taught with a passion for programming and technology. Proficient in C, JavaScript, and Python, I've built numerous personal projects. I am committed to continuous learning, problem-solving, and growing my skills to build efficient software and make positive contributions to the tech world. My goal is to leverage my expertise through further education and experience to become a software engineer who drives innovation and positive change.
 
----
-
 ## Technology Stack
 
 ![Bash Script](https://img.shields.io/badge/bash_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootsrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cpp&logoColor=white)
 ![CMake](https://img.shields.io/badge/Cmake-black?style=for-the-badge&logo=cmake&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
@@ -40,8 +39,6 @@ I am a highly motivated and self-driven 17-year-old software developer, entirely
 ![UV](https://img.shields.io/badge/UV-black?style=for-the-badge&logo=uv&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-black?style=for-the-badge&logo=pypi&logoColor=white)
 
----
-
 ## Experience
 
 ### Co-founder &mdash; chef-box.ir 
@@ -49,44 +46,12 @@ I am a highly motivated and self-driven 17-year-old software developer, entirely
 
 Implemented automation solutions to reduce manual work.
 
-![chef-box.ir](assets/chef-box.png)
-
 ### Co-founder &mdash; mahanbartabriz.ir
 **December 2025 - Present**
 
 Solely responsible for the website’s full development lifecycle.
 
-![mahanbartabriz.ir](assets/mahanbartabriz.png)
-
----
-
 ## Education
 
 * Shahid Dr. Chamran Honarestan (Techincal School) — 2025 (Expected Graduation)
   * Currently enrolled, specializing in "network and software"
-
----
-
-## Projects
-
-- [![BellmanGridSolver](https://img.shields.io/badge/Bellman%20Grid%20Solver-black?style=for-the-badge&logo=poetry&logoColor=white)
-](https://github.com/ashkanfeyzollahi/bellman-grid-solver): 🤖 Solve deterministic grid worlds/mazes using bellman equation
-- [![BlessedViewer](https://img.shields.io/badge/Blessed%20Viewer-black?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ashkanfeyzollahi/blessedviewer): 🖼️ A blessed terminal-based image viewer
-- [![cameracli](https://img.shields.io/badge/cameracli-black?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/ashkanfeyzollahi/cameracli): 📷 A terminal-based real-time camera viewer using Notcurses for high-performance, full-color rendering.
-- [![ccowsay](https://img.shields.io/badge/ccowsay-black?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ashkanfeyzollahi/ccowsay): 🐮 A tool for generating customizable ASCII art messages with speech bubbles and cow-style templates, supporting styled text using AnsiMarkup.
-- [![Fortexs](https://img.shields.io/badge/Fortexs-black?style=for-the-badge&logo=poetry&logoColor=white)
-](https://github.com/ashkanfeyzollahi/fortexs): 🔍 A web scraper for fetching products from `www.fortex.ir`
-- [![GetIgnore3](https://img.shields.io/badge/GetIgnore3-black?style=for-the-badge&logo=pypi&logoColor=white)
-](https://github.com/ashkanfeyzollahi/getignore3): 😎 A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort.
-- [![GetLicense](https://img.shields.io/badge/GetLicense-black?style=for-the-badge&logo=pypi&logoColor=white)
-](https://github.com/ashkanfeyzollahi/getlicense): 📖 A tool to quickly generate software license files with customizable project details
-- [![IrisClassification](https://img.shields.io/badge/Iris%20Classification-black?style=for-the-badge&logo=poetry&logoColor=white)
-](https://github.com/ashkanfeyzollahi/iris-classification): 🤖 Iris classification with Scikit-learn
-- [![MeteorMayhem](https://img.shields.io/badge/MeteorMayhem-black?style=for-the-badge&logo=c&logoColor=white)
-](https://github.com/ashkanfeyzollahi/meteormayhem): 🚀 A fast-paced ncurses space game in your terminal
-- [![One0](https://img.shields.io/badge/One0-black?style=for-the-badge&logo=c&logoColor=white)
-](https://github.com/ashkanfeyzollahi/one0): 🔢 A minimalist esoteric programming language where every operation is represented by binary strings.
-- [![Roadway](https://img.shields.io/badge/Roadway-black?style=for-the-badge&logo=lua&logoColor=white)
-](https://github.com/ashkanfeyzollahi/roadway): 🚗 A fast-paced 2-lane dodging game made with LÖVE2D. Avoid oncoming cars, survive the road, and watch out for explosive crashes!
-- [![ToggleLED](https://img.shields.io/badge/Toggle%20LED-black?style=for-the-badge&logo=cplusplus&logoColor=white)
-](https://github.com/ashkanfeyzollahi/toggle-led): 💡 A simple ESP8266 access-point–hosted web server that lets you toggle the onboard LED through a clean HTML interface. 
